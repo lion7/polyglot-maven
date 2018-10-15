@@ -45,7 +45,7 @@
       <plugin>
         <groupId>io.takari.polyglot</groupId>
         <artifactId>polyglot-maven-plugin</artifactId>
-        <version>@project.version@</version>
+        <version>@project.parent.version@</version>
         <configuration>
 	  <nativePom>pom.rb</nativePom>
         </configuration>
